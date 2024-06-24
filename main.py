@@ -158,7 +158,7 @@ def main():
     print(Fore.YELLOW + "Pengiriman selesai!")
     print(Fore.CYAN + f"Total transaksi berhasil: {total_transactions}")
     print(Fore.CYAN + "Terima kasih telah menggunakan script ini.")
-    print(Fore.CYAN + "Channel : t.me/UGDAirdrop")
+    print(Fore.CYAN + "Channel : -")
     print(Fore.MAGENTA + "===============================")
 
 if __name__ == '__main__':
