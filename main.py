@@ -85,7 +85,7 @@ def main():
     print(Fore.MAGENTA + "===============================")
     print(Fore.CYAN + "Units Auto Send")
     print(Fore.MAGENTA + "===============================")
-    print(Fore.CYAN + "Channel : t.me/UGDAirdrop")
+    print(Fore.CYAN + "Channel : -")
     print(Fore.MAGENTA + "===============================\n")
 
     sender_private_key = read_private_key('private_key.txt')
