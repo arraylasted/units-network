@@ -10,7 +10,7 @@ Script ini untuk auto send ke banyak addres alias untuk GB
    
 2. Clone script
   ```bash
-  https://github.com/0xbb22/units-network.git
+  https://github.com/arraylasted/units-network.git
   ```
 
 3. Install depensis
@@ -33,6 +33,3 @@ Script ini untuk auto send ke banyak addres alias untuk GB
    ```python
    python main.py
    ```
-
-# Channel
-[UGD Airdrop](https://t.me/ugdairdrop)
